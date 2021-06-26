@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/arpitalkari/static/css/main.0104400e.chunk.css",
+    "main.js": "/arpitalkari/static/js/main.90b7ad0b.chunk.js",
+    "main.js.map": "/arpitalkari/static/js/main.90b7ad0b.chunk.js.map",
+    "runtime-main.js": "/arpitalkari/static/js/runtime-main.63397163.js",
+    "runtime-main.js.map": "/arpitalkari/static/js/runtime-main.63397163.js.map",
+    "static/css/2.cc9ff937.chunk.css": "/arpitalkari/static/css/2.cc9ff937.chunk.css",
+    "static/js/2.6629e971.chunk.js": "/arpitalkari/static/js/2.6629e971.chunk.js",
+    "static/js/2.6629e971.chunk.js.map": "/arpitalkari/static/js/2.6629e971.chunk.js.map",
+    "index.html": "/arpitalkari/index.html",
+    "static/css/2.cc9ff937.chunk.css.map": "/arpitalkari/static/css/2.cc9ff937.chunk.css.map",
+    "static/css/main.0104400e.chunk.css.map": "/arpitalkari/static/css/main.0104400e.chunk.css.map",
+    "static/js/2.6629e971.chunk.js.LICENSE.txt": "/arpitalkari/static/js/2.6629e971.chunk.js.LICENSE.txt",
+    "static/media/foto.b47171a5.png": "/arpitalkari/static/media/foto.b47171a5.png",
+    "static/media/game.bdab030d.png": "/arpitalkari/static/media/game.bdab030d.png",
+    "static/media/news.cd9d2a72.jpg": "/arpitalkari/static/media/news.cd9d2a72.jpg",
+    "static/media/rentor.a8c05b30.png": "/arpitalkari/static/media/rentor.a8c05b30.png",
+    "static/media/siting avatar.3616b68e.png": "/arpitalkari/static/media/siting avatar.3616b68e.png",
+    "static/media/stand.e31d1d67.svg": "/arpitalkari/static/media/stand.e31d1d67.svg",
+    "static/media/sukoon.3ce98153.png": "/arpitalkari/static/media/sukoon.3ce98153.png",
+    "static/media/welcome.5f83f5f8.png": "/arpitalkari/static/media/welcome.5f83f5f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63397163.js",
+    "static/css/2.cc9ff937.chunk.css",
+    "static/js/2.6629e971.chunk.js",
+    "static/css/main.0104400e.chunk.css",
+    "static/js/main.90b7ad0b.chunk.js"
+  ]
+}
