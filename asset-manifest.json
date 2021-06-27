@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/arpitalkari/static/css/main.0104400e.chunk.css",
-    "main.js": "/arpitalkari/static/js/main.90b7ad0b.chunk.js",
-    "main.js.map": "/arpitalkari/static/js/main.90b7ad0b.chunk.js.map",
+    "main.css": "/arpitalkari/static/css/main.52d89af5.chunk.css",
+    "main.js": "/arpitalkari/static/js/main.f48a41e1.chunk.js",
+    "main.js.map": "/arpitalkari/static/js/main.f48a41e1.chunk.js.map",
     "runtime-main.js": "/arpitalkari/static/js/runtime-main.63397163.js",
     "runtime-main.js.map": "/arpitalkari/static/js/runtime-main.63397163.js.map",
     "static/css/2.cc9ff937.chunk.css": "/arpitalkari/static/css/2.cc9ff937.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.6629e971.chunk.js.map": "/arpitalkari/static/js/2.6629e971.chunk.js.map",
     "index.html": "/arpitalkari/index.html",
     "static/css/2.cc9ff937.chunk.css.map": "/arpitalkari/static/css/2.cc9ff937.chunk.css.map",
-    "static/css/main.0104400e.chunk.css.map": "/arpitalkari/static/css/main.0104400e.chunk.css.map",
+    "static/css/main.52d89af5.chunk.css.map": "/arpitalkari/static/css/main.52d89af5.chunk.css.map",
     "static/js/2.6629e971.chunk.js.LICENSE.txt": "/arpitalkari/static/js/2.6629e971.chunk.js.LICENSE.txt",
     "static/media/foto.b47171a5.png": "/arpitalkari/static/media/foto.b47171a5.png",
     "static/media/game.bdab030d.png": "/arpitalkari/static/media/game.bdab030d.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.63397163.js",
     "static/css/2.cc9ff937.chunk.css",
     "static/js/2.6629e971.chunk.js",
-    "static/css/main.0104400e.chunk.css",
-    "static/js/main.90b7ad0b.chunk.js"
+    "static/css/main.52d89af5.chunk.css",
+    "static/js/main.f48a41e1.chunk.js"
   ]
 }
